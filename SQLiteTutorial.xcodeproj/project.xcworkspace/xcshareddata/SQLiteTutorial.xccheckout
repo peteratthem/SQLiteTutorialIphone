@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B15C3B46-424E-4B45-B670-8CEB5F6F649D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SQLiteTutorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5DE5F751-8F8C-451E-AA8C-B9C265F8FEA2</key>
+		<string>https://github.com/peteratthem/SQLiteTutorialIphone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SQLiteTutorial.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5DE5F751-8F8C-451E-AA8C-B9C265F8FEA2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/peteratthem/SQLiteTutorialIphone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DE5F751-8F8C-451E-AA8C-B9C265F8FEA2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DE5F751-8F8C-451E-AA8C-B9C265F8FEA2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SQLiteTutorialIphone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
