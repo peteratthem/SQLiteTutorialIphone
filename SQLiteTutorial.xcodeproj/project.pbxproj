@@ -21,6 +21,7 @@
 		D0DC3BEC1850E71D00C4BEA8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0DC3BCE1850E71D00C4BEA8 /* UIKit.framework */; };
 		D0DC3BF41850E71D00C4BEA8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D0DC3BF21850E71D00C4BEA8 /* InfoPlist.strings */; };
 		D0DC3BF61850E71D00C4BEA8 /* SQLiteTutorialTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0DC3BF51850E71D00C4BEA8 /* SQLiteTutorialTests.m */; };
+		D0DC3C001856613300C4BEA8 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D0DC3BFF1856613300C4BEA8 /* libsqlite3.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		D0DC3BF11850E71D00C4BEA8 /* SQLiteTutorialTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SQLiteTutorialTests-Info.plist"; sourceTree = "<group>"; };
 		D0DC3BF31850E71D00C4BEA8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D0DC3BF51850E71D00C4BEA8 /* SQLiteTutorialTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SQLiteTutorialTests.m; sourceTree = "<group>"; };
+		D0DC3BFF1856613300C4BEA8 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0DC3C001856613300C4BEA8 /* libsqlite3.dylib in Frameworks */,
 				D0DC3BCD1850E71D00C4BEA8 /* CoreGraphics.framework in Frameworks */,
 				D0DC3BCF1850E71D00C4BEA8 /* UIKit.framework in Frameworks */,
 				D0DC3BCB1850E71D00C4BEA8 /* Foundation.framework in Frameworks */,
@@ -101,6 +104,7 @@
 		D0DC3BC91850E71D00C4BEA8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D0DC3BFF1856613300C4BEA8 /* libsqlite3.dylib */,
 				D0DC3BCA1850E71D00C4BEA8 /* Foundation.framework */,
 				D0DC3BCC1850E71D00C4BEA8 /* CoreGraphics.framework */,
 				D0DC3BCE1850E71D00C4BEA8 /* UIKit.framework */,
@@ -460,6 +464,7 @@
 				D0DC3BFB1850E71D00C4BEA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0DC3BFC1850E71D00C4BEA8 /* Build configuration list for PBXNativeTarget "SQLiteTutorialTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +473,7 @@
 				D0DC3BFE1850E71D00C4BEA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
