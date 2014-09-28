@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  SQLiteTutorial
 //
-//  Created by PETER ATTHEM on 2013-12-05.
+//  Created by PETER ATTHEM on 2013-12-05.c
 //  Copyright (c) 2013 PETER ATTHEM. All rights reserved.
 //
 
