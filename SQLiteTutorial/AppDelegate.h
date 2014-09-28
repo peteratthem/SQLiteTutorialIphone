@@ -3,7 +3,7 @@
 //  SQLiteTutorial
 //
 //  Created by PETER ATTHEM on 2013-12-05.
-//  Copyright (c) 2013 PETER ATTHEM. All rights reserved.
+//  Copyright (c) 2013 PETER ATTHEM. All rights reserved. notis
 //
 
 #import <UIKit/UIKit.h>
